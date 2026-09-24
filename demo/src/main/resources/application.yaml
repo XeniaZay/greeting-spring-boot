@@ -1,3 +1,10 @@
 spring:
   application:
-    name: greeting-spring-boot
+    name: demo
+
+debug: true
+
+greeting:
+  enabled: true
+  prefix: "Hello"
+  suffix: "!"
