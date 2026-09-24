@@ -1,1 +1,5 @@
 rootProject.name = 'greeting-spring-boot'
+
+include 'greeting-spring-boot-autoconfigure'
+include 'greeting-spring-boot-starter'
+include 'demo'
